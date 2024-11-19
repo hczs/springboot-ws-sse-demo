@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ws-sse-client
+
+
+ws:
+  url: ws://localhost:8000/echo
+
+
+server:
+  port: 8001

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ws-server
+
+server:
+  port: 8000
